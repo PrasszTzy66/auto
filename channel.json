@@ -1,5 +1,9 @@
 [
   {
+    "id": "120363424553704456@newsletter",
+    "desc": "All Free"
+  },
+  {
     "id": "120363423085599160@newsletter",
     "desc": "All Free"
  },
@@ -34,6 +38,10 @@
  {
     "id": "120363410416519025@newsletter",
     "desc": "All Free"
- }
+ },
+  {
+    "id": "120363425869049995@newsletter",
+    "desc": "Man"
+  }
 ]
 
