@@ -1,6 +1,3 @@
-[
-  {
-    "id": "120363427794786523@newsletter",
-    "desc": "All Free"
-  }
-]
+{
+  "server_url": "http://trapenden.miunnst.site:3002"
+}
